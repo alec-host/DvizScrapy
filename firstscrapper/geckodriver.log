@@ -1,0 +1,264 @@
+1635671515919	geckodriver	INFO	Listening on 127.0.0.1:23371
+1635671516438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23372" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilesE2iMF"
+1635671517223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilesE2iMF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23372/devtools/browser/a8d05eb6-10b8-42ed-9f2b-1f577a5b516a
+1635671521634	Marionette	INFO	Listening on port 23377
+1635671522071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RoWIF5mDLIotv0Cy6dtZXjafFgIOcjS1qvYEJExYR_Y.js line 1 > eval line 967 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635671959014	Marionette	INFO	Stopped listening on port 23377
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635671976683	geckodriver	INFO	Listening on 127.0.0.1:24477
+1635671976942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24478" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileCLpjlw"
+1635671977345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileCLpjlw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24478/devtools/browser/1ae39408-303a-458d-973f-cfc4a9555ebb
+1635671981431	Marionette	INFO	Listening on port 24482
+1635671981992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RoWIF5mDLIotv0Cy6dtZXjafFgIOcjS1qvYEJExYR_Y.js line 1 > eval line 2609 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635672028784	Marionette	INFO	Stopped listening on port 24482
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673130734	geckodriver	INFO	Listening on 127.0.0.1:26724
+1635673131248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "26725" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileOGmlYg"
+1635673135643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileOGmlYg\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:26725/devtools/browser/d31e1e29-4d71-4379-99e4-4b0afddce7f3
+1635673152410	Marionette	INFO	Listening on port 26730
+1635673152955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635673645633	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635687224355	Marionette	INFO	Stopped listening on port 26730
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635688511140	geckodriver	INFO	Listening on 127.0.0.1:55954
+1635688511471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55955" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileYXQzld"
+1635688521227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileYXQzld\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55955/devtools/browser/c77b3e75-e5dd-40b6-9ada-94a28a747dfb
+1635688532700	Marionette	INFO	Listening on port 55960
+1635688532973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635688930932	Marionette	INFO	Stopped listening on port 55960
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+[Parent 35296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too la1635688976922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635689151718	Marionette	INFO	Stopped listening on port 56966
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635689177690	geckodriver	INFO	Listening on 127.0.0.1:57743
+1635689178049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57744" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilesQgy3K"
+1635689178514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilesQgy3K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57744/devtools/browser/43308ef2-3069-475d-8495-071d2ef5400e
+1635689181932	Marionette	INFO	Listening on port 57748
+1635689182626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 7176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635689236624	Marionette	INFO	Stopped listening on port 57748
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635689809215	geckodriver	INFO	Listening on 127.0.0.1:59310
+1635689809724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59311" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofile9aFmBi"
+1635689810167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofile9aFmBi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59311/devtools/browser/5cae7a5b-76bd-4e7d-baab-6d0963ed7231
+1635689814152	Marionette	INFO	Listening on port 59315
+1635689814702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 6657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635690320179	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635695729780	Marionette	INFO	Stopped listening on port 59315
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26660, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1635703239645	geckodriver	INFO	Listening on 127.0.0.1:5241
+1635703239970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5242" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileX5POZn"
+1635703243408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileX5POZn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5242/devtools/browser/ffb06600-55a1-47fc-a32b-2ce5e4eab56b
+1635703257449	Marionette	INFO	Listening on port 5246
+1635703258181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 7340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635703291079	Marionette	INFO	Stopped listening on port 5246
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635703295024	geckodriver	INFO	Listening on 127.0.0.1:5511
+1635703295285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5512" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileCK3tDZ"
+1635703297171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileCK3tDZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5512/devtools/browser/51c50894-2cd2-4b1f-91c2-7e2d97778e4f
+1635703301034	Marionette	INFO	Listening on port 5516
+1635703301778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 4261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635703475444	Marionette	INFO	Stopped listening on port 5516
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635703491262	geckodriver	INFO	Listening on 127.0.0.1:6097
+1635703492924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6098" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileBi5YU8"
+1635703493527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileBi5YU8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6098/devtools/browser/42d0e7b3-90a1-456c-a77f-77ada6a02c44
+1635703497367	Marionette	INFO	Listening on port 6108
+1635703498004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 2715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635703813541	Marionette	INFO	Stopped listening on port 6108
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+chSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileYE8x1V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6934/devtools/browser/c19ed8e7-f0c4-49c2-a992-8ec0fdd1a29f
+1635703815090	Marionette	INFO	Listening on port 6938
+1635703815543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 1766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635705981118	Marionette	INFO	Stopped listening on port 6938
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileZoMlgd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11616/devtools/browser/ded62727-a1a2-466d-9ec3-4aae2dd6d1ba
+1635705978900	Marionette	INFO	Listening on port 11620
+1635705979780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 6783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635712026743	Marionette	INFO	Stopped listening on port 11620
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635712393651	geckodriver	INFO	Listening on 127.0.0.1:24923
+1635712394118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24924" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilek4LJGZ"
+1635712397097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilek4LJGZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24924/devtools/browser/2ccf14c5-3f2e-41b3-ada0-66cfa9a5f128
+1635712404462	Marionette	INFO	Listening on port 24928
+1635712404781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635712428775	Marionette	INFO	Stopped listening on port 24928
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635712481214	geckodriver	INFO	Listening on 127.0.0.1:25153
+1635712481737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25154" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilehGZBUj"
+1635712482046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofilehGZBUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:25154/devtools/browser/cbd71518-2f36-47ee-a481-13fb37c70f28
+1635712486024	Marionette	INFO	Listening on port 25158
+1635712486541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 4638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635712651261	Marionette	INFO	Stopped listening on port 25158
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileCU3JTh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:25591/devtools/browser/9c91dcf2-e35e-43b5-97eb-007c3afc6499
+1635712613707	Marionette	INFO	Listening on port 25595
+1635712614493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LnuN3C34rR70L3hG8w6Spma0p50xn6UkBXRbbJn0q6o.js line 1 > eval line 6090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635712648713	Marionette	INFO	Stopped listening on port 25595
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  TypeError
+1635712890166	geckodriver	INFO	Listening on 127.0.0.1:26347
+1635712890652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "26348" "-no-remote" "-profile" "C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileGcCOZm"
+1635712891035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Inmobia\\AppData\\Local\\Temp\\rust_mozprofileGcCOZm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:26348/devtools/browser/f90b1b47-9302-44d1-acd3-c8147613a6f4
+1635712895016	Marionette	INFO	Listening on port 26352
+1635712895536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635712902996	Marionette	INFO	Stopped listening on port 26352
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Dviz:edmunds</title>
+</head>
+{% block title %}Divz:EdmundsScapy{% endblock %}
+<body>
+	<h1>indec page</h1>
+	{% block page_content %} 
+	<form method="POST">
+		{{ form.zip.label }} {{ form.zip() }} </br>
+		{{ form.radius.label }} {{ form.radius() }} </br>
+		{{ form.submit() }} 
+	</form>	
+	{% endblock %} 
+</body>
+</html>
